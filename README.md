@@ -1,7 +1,7 @@
 # Tour-Project
 <b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/SagarJadhav30/Travel.com/issues/10) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/SagarJadhav30/Travel.com/issues/9) <br><br>
+[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/SagarJadhav30/Travel.com/issues) <br>
+[Enhancement: Separate Pages For Popular Packages ](https://github.com/SagarJadhav30/Travel.com/issues) <br><br>
 
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
