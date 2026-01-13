@@ -1,11 +1,22 @@
-# Tour-Project
-<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/SagarJadhav30/Travel.com/issues) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/SagarJadhav30/Travel.com/issues) <br><br>
+# Tour & Travel Project 🌍
 
-Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
+A simple **Tour & Travel website** built using **HTML, CSS, JavaScript, and PHP**.  
+The project includes a responsive frontend and a backend contact form to store user queries in a database.
 
-Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
+---
+
+
+
+# Technologies Used <br>
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP  
+**Database:** MySQL (for contact form data)
+
+---
+
+Project Structure
+
+
 
 
 
