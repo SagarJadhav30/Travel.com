@@ -14,7 +14,6 @@ The project includes a responsive frontend and a backend contact form to store u
 
 ---
 
-Project Structure
 
 
 
