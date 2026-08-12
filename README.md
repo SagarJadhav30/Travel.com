@@ -7,7 +7,7 @@ The project includes a responsive frontend and a backend contact form to store u
 
 
 
-# Technologies Used <br>
+# Technologies Used <br> 
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** PHP  
 **Database:** MySQL (for contact form data)
